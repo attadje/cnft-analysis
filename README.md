@@ -1,2 +1,2 @@
 # cnft-analysis
-Playground for CNFT analysis
+Playground for CNFT analysis with Python.
